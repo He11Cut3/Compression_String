@@ -1,0 +1,14 @@
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\bin\Debug\net8.0\Task_Compression_string.exe
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\bin\Debug\net8.0\Task_Compression_string.deps.json
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\bin\Debug\net8.0\Task_Compression_string.runtimeconfig.json
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\bin\Debug\net8.0\Task_Compression_string.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\bin\Debug\net8.0\Task_Compression_string.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.AssemblyInfoInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.AssemblyInfo.cs
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.csproj.CoreCompileInputs.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\refint\Task_Compression_string.dll
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.pdb
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\Task_Compression_string.genruntimeconfig.cache
+C:\Users\kek13\OneDrive\Рабочий стол\Task_Compression_string\obj\Debug\net8.0\ref\Task_Compression_string.dll
